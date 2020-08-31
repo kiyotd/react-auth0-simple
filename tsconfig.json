@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "target": "es5",
+    "module": "CommonJS",
+    "jsx": "react",
+    "moduleResolution": "Node",
+    "lib": [
+      "es2020",
+      "dom"
+    ],
+    "esModuleInterop": true
+  },
+  "include": ["src"]
+}
